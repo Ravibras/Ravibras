@@ -48,5 +48,5 @@ O código é poesia escrita em linguagem que as máquinas entendem
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravibras/Ravibras/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravibras/Ravibras/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sniper202Br/Sniper202Br/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ravibras/Ravibras/output/github-contribution-grid-snake.svg">
 </picture>
