@@ -3,7 +3,7 @@
 O código é poesia escrita em linguagem que as máquinas entendem
 - 🌾 Estudando: lua
 - 👲 Pronomes: Ele/Dele
-- 💬 Discord: Ravibras
+- 💬 Discord: Ravibras2
 ---
 ### 🤖 Linguagens e Tecnologias
 
